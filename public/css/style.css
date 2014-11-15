@@ -1,0 +1,45 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #5d614e;
+}
+
+p {
+  font-size: 16px;
+}
+
+.header {
+  margin-top: 40px;
+}
+
+.header hr {
+  border: 2px solid #bbbab9;
+}
+
+.header-content {
+  height: 120px;
+}
+
+.portrait {
+  height: inherit;
+}
+
+.modal-body {
+  text-align: center;
+}
+
+.row-element {
+  height: 210px !important;
+}
+
+.featured {
+  color: #bbbab9;
+  margin-top: 50px;
+}
+
+.thin {
+  font-weight: 300;
+}
+
+.normal {
+  font-weight: 400;
+}
